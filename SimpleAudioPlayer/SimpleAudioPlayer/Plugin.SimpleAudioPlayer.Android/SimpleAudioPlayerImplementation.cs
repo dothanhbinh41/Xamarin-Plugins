@@ -245,7 +245,7 @@ namespace Plugin.SimpleAudioPlayer
             {
                 player.SeekTo(0);
                 player.Stop();
-                player.Prepare();
+               // player.Prepare();
             }
         }
 
